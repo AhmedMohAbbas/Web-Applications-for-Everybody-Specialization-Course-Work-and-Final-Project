@@ -4,7 +4,7 @@ The "Web Applications for Everybody Specialization" certificate is offered on Co
 # This Repository
 This repository contains my own personal coursework throughout the whole Specialization. It starts small and adds up progressively to the final project which is a complete (back-end wise) CRUD web application. Therefore, there will be some code snippets carried over here and there. As well as some personal notes and sketches, feel free to ignore those :)
 
-Some files may contain code from examples as well as some trial and error and are not 100% my own code (examples, obviously) but could be useful to look at for a new learner. However, Any “Assignment” code is my own personally written code which I used to pass the course tests. At the Time of me taking this course, PHP version 7.4.1 was the one being used in the course material and in the course tests. Feel free to use any of this code as you wish.
+Some files may contain code from examples as well as some trial and error and are not 100% my own code (examples, obviously) but could be useful to look at for a new learner. However, Any “Assignment” code is my own personally written code which I used to pass the course tests. At the Time of me taking this course, PHP version 7.4.1 was being used in the course material and in the course tests. Feel free to use any of this code as you wish.
 
 The “CRUD Assignment” directory contains the final CRUD project. Which is a web app that tracks automobile data per user. A user can view all entries but can only manipulate the data entered by himself. This is the overarching example that most of the course material builds up to.
 
