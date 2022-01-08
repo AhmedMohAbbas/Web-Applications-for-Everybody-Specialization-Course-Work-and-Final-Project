@@ -21,6 +21,7 @@ While the courses do touch on, and involve, Front-End web development subjects. 
 # Credentials Link 
 https://www.coursera.org/account/accomplishments/specialization/certificate/8WX3U55U9B3Q
 
-[Certificate.pdf](https://github.com/AhmedMohAbbas/Web-Applications-for-Everybody-Specialization-Course-Work-Final-Project/files/7833824/WAFES.pdf)
+![Certificate](https://user-images.githubusercontent.com/72700823/148656883-391cf391-7855-4654-a342-81839d41aa37.jpg)
+
 
 
