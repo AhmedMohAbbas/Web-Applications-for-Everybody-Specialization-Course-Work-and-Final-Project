@@ -1,4 +1,4 @@
-# Web-Applications-for-Everybody-Specialization-Course-Work-Final-Project
+# Web-Applications-for-Everybody-Specialization-Course-Work-and-Final-Project
 The "Web Applications for Everybody Specialization" certificate is offered on Coursera by the University of Michigan. It is rewarded for those who successfully pass all the tests for the four courses of the Specialization.It is a great course which you can find here: https://www.coursera.org/specializations/web-applications
 
 # This Repository
